@@ -1,5 +1,5 @@
 {
-  "name": "ng2-toasty",
+  "name": "@kleiolab/ng2-toasty",
   "description": "Angular2 Toasty component shows growl-style alerts and messages for your web app",
   "version": "0.0.0-semantically-released",
   "scripts": {

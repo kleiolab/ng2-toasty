@@ -14,7 +14,7 @@ _Some of these APIs and Components are not final and are subject to change!_
 
 ## Installation
 ```sh
-npm install ng2-toasty --save
+npm install @kleiolab/ng2-toasty --save
 ```
 
 ## Demo
